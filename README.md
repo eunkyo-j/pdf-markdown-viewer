@@ -50,9 +50,13 @@ npm run dev
 
 ## 🖼️ 사용 예시
 
-> PDF 파일을 선택하여 업로드 후, 변환된 Markdown 내용을 오른쪽 창에 표시합니다.
+> PDF 파일을 선택하여 업로드 후, 변환된 Markdown 내용을 아래쪽에 표시합니다.
 
-![preview](img/demo.png)
+![Image](https://github.com/user-attachments/assets/40b0e1e6-6a98-471a-9ea7-ad054caa0b29)
+
+![Image](https://github.com/user-attachments/assets/3006c66a-8d68-4c64-98f0-2447ff3d016c)
+
+![Image](https://github.com/user-attachments/assets/ff8c01f8-2f81-4c6a-90fe-9369966c2a97)
 
 ---
 
