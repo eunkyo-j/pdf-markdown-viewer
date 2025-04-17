@@ -1,4 +1,4 @@
-# 🧠 PDF Markdown Viewer
+# 📄 PDF Markdown Viewer
 
 사용자가 업로드한 PDF 문서를 Markdown 형식으로 변환하고, 변환된 결과를 웹 화면에서 바로 확인할 수 있는 웹 애플리케이션입니다.
 
